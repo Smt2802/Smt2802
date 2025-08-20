@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @Smt2802
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Sakshi Thadkar
+- 🎓 Graduated in Electronics Engineering
 
-<!---
-Smt2802/Smt2802 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Interested in VLSI Design & Verification
+
+🔧 Skills: Verilog, SystemVerilog, UVM, FPGA basics, Digital Electronics
+
+📂 Uploading my VLSI projects & mini designs here
+
+
+
+
+
+
+
+
+
